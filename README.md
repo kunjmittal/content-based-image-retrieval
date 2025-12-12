@@ -2,7 +2,7 @@
 Application-level image IR project using ORB (out-of-syllabus algorithm), k-Means, and Streamlit UI.
 
 MY VIDEO LINK IR PROJECT DRIVE LINK
-https://drive.google.com/drive/u/0/folders/1KWiT40Tb9ATxKqbS1Rr--7dynxgK-TqN
+https://drive.google.com/file/d/1VjfeK33znDETjg9_1Vw7--mAtt9KZ8A8/view
 
 
 Content-Based Image Retrieval System Using ORB Features & k-Means Clustering
